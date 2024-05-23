@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 1. Biryani
 2. Chicken Bharta
 3. Chicken Burger
+=======
+1. Parika
+2. Saving Private Ryan
+3. Prestige
+4. A Bridge Too Far
+>>>>>>> movies
